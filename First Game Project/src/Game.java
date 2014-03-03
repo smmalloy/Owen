@@ -2,7 +2,7 @@ import java.awt.Graphics;
 
 @SuppressWarnings("serial")
 public class Game extends gameLoop{
-
+// HRLOO WORLD
 	public void init(){
 		System.out.println("Init method");
 		setSize(800, 600);
